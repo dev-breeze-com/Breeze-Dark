@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Breeze-Dark
+Name[en_US]=Breeze-Dark
+Type=X-GNOME-Metatheme
+Comment=A GTK+ dark blue theme for the Breeze::OS desktop
+Comment[en_US]=A GTK+ dark blue theme for the Breeze::OS desktop
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Breeze-Dark
+MetacityTheme=Breeze-Dark
